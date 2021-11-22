@@ -31,6 +31,8 @@ Q. Rank your 5 favorite, and 5 least favorite, activities from this list: https:
 * Deliver a talk to many people you don't know at a conference or meetup
 * Debug a customer's build using a programming language and framework that you've never seen before
 
+> Note: I do enjoy troubleshooting and I learn a lot from doing it but when you have so many tasks to choose from it's hard to stay away from the one's that can create the biggest impact.
+
 Q.  Provide a link to documentation for a technical/developer-focused product, which you think are well done, and explain why you think they are well done.
 
 https://www.twilio.com/docs/voice/make-calls
@@ -62,11 +64,11 @@ If the information provided does not resolve the issue, would you be able to sha
 
 Q. How would you set up an http 301 status redirect from “/netlify/anything” on your site, to https://www.google.com/search?q=anything How about a proxy redirect? Please add that proxy redirect rule to your site.
 
-> Please check `netlify.toml` folder on the build.
+> Please check `netlify.toml` folder on the build. https://marcoisliveat.netlify.app/netlify/anything
 
 Q. Please attempt to deploy a function on our service. This need not be complicated, could be "Hello World" or something fancier. Note that failure to deploy is not failing the exercise! Whether you have trouble or not, please describe what you experienced and how you attempted to troubleshoot, instead. We won't be asking you to share the function (but you can if you want to!), we just want to hear about the experience in some detail.
 
-> I've deployed a Hello World. The most complicated for me was understanding how to trigger the function and assigning the right format of the path where Netlify would pick the Functions.
+> I've deployed a Hello World. The most complicated for me was understanding how to trigger the function and assigning the right format of the path where Netlify would pick the Functions. https://marcoisliveat.netlify.app/.netlify/functions/hello
 
 Q. We understand you don't know anything about our internal procedures at this stage, but we want you to explain at a high level how you'd react to this situation: You receive a report of a severe security issue on www.netlify.com. You can't immediately confirm, so what steps might you take to investigate or substantiate the report? What might you say to the reporter, even though we haven't confirmed their assertion yet, that will still leave the true impression that our business is very concerned about security? You believe there is a reasonable chance the report is correct and the problem is very large and impactful. How might you escalate?
 
