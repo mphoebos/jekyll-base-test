@@ -23,6 +23,7 @@ Q. Rank your 5 favorite, and 5 least favorite, activities from this list: https:
 * Suggest and champion improvements to the Support team's workflow to your colleagues in and out of Support
 * Work with people to figure out if Netlify's service can solve a particular workflow or integration challenge they have
 
+>
 # Least favorite:
 * Find and recruit teammates for the Support team
 * Respond to Netlify customers on Twitter
@@ -61,7 +62,7 @@ If the information provided does not resolve the issue, would you be able to sha
 
 Q. How would you set up an http 301 status redirect from “/netlify/anything” on your site, to https://www.google.com/search?q=anything How about a proxy redirect? Please add that proxy redirect rule to your site.
 
-> Please check `_redirects` folder on the build.
+> Please check `netlify.toml` folder on the build.
 
 Q. Please attempt to deploy a function on our service. This need not be complicated, could be "Hello World" or something fancier. Note that failure to deploy is not failing the exercise! Whether you have trouble or not, please describe what you experienced and how you attempted to troubleshoot, instead. We won't be asking you to share the function (but you can if you want to!), we just want to hear about the experience in some detail.
 
