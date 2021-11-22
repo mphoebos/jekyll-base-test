@@ -11,7 +11,7 @@ Q. Talk about how you made your site and why you chose the tools you did. Briefl
 
 Q. What did you think of our service during the time you used it? Provide either some constructive criticism or some points that impressed you. Be honest! “It sucked” isn’t a wrong answer unless you don’t elaborate and provide some constructive criticism ;)
 
-> Simplicity if I would have to define it in a word. The dashboard is designed with tabs and a navbar that are self-explanatory for someone seeing it for the first time. Each page has just enough information to understand what you can manage from there. It's not clattered with too much information.
+> Simplicity if I would have to define it in a word. The dashboard is designed with tabs and a navbar that are self-explanatory for someone seeing it for the first time. Each page has just enough information to understand what you can manage from there. It's not clattered with too much information. It really puts the developers in the helm of their builds without having to worry about anything else.
 
 Q. Rank your 5 favorite, and 5 least favorite, activities from this list: https://gist.github.com/fool/b0f254ff8c72a5765b6a9138249789d6
 
