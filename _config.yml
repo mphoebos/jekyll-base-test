@@ -10,3 +10,4 @@ github_username: mphoebos
 
 # Build settings
 markdown: kramdown
+include: [_redirects]
